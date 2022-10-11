@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shubham Sah
+                                                          👋 Hi, I’m Shubham Sah
 - 👀 I’m interested in Data Analytics, Machine Learning
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning PostgreSQL,
+- 💞️ I’m GATE qualified with 80 percentile in year 2021
+- 📫 Web development skill http://shubham1894.pythonanywhere.com/
 
 <!---
 shubham1894/shubham1894 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
