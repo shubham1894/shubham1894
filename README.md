@@ -1,4 +1,4 @@
-                                                          👋 Hi, I’m Shubham Sah
+                                                          👋 Hi, I’m Shubh
 - 👀 I’m interested in Data Analytics, Machine Learning
 - 🌱 I’m currently learning **Power BI**,
 - 💞️ I’m GATE qualified with **80 percentile** in year 2021
